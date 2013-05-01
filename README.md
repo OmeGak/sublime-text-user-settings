@@ -55,5 +55,10 @@ git pull
 
 Once again, restart Sublime Text 2 and check for errors on the console output (`` Ctrl+` ``).
 
+## Extra
+Some tips to improve even further your Sublime Text 2.
+* Enable the [command line tool](blob/master/command-support-osx.sh) running the script (only Mac OS X).
+* Configure [Dropbox sync](http://opensourcehacker.com/2012/05/24/sync-and-back-up-sublime-text-settings-and-plug-ins-using-dropbox-on-linux-and-osx/).
+
 ## Warning
 Remember that these are my personal settings and packages, so be wary of any unwanted features that can be added or removed without notice. If you find them useful, it's probably better to fork the repository and modify it to best fit your needs.
