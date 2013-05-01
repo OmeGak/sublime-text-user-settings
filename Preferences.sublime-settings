@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"dictionary": "Packages/Dictionaries/Spanish.dic",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Light.sublime-theme"
+}

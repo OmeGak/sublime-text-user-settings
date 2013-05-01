@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Dictionaries",
+		"FileDiffs",
+		"LaTeXTools",
+		"Package Control",
+		"Pandoc",
+		"Placeholders",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
