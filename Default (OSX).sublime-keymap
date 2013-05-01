@@ -1,3 +1,2 @@
 [
-	{ "keys": ["super+k", "super+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} }
 ]

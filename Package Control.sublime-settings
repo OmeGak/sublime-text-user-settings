@@ -3,14 +3,16 @@
 	"installed_packages":
 	[
 		"Dictionaries",
-		"FileDiffs",
+		"DocBlockr",
+		"Emmet",
 		"LaTeXTools",
+		"Markdown Preview",
 		"Package Control",
 		"Pandoc",
-		"Placeholders",
+		"SideBarEnhancements",
+		"SideBarGit",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Theme - Soda",
-		"TrailingSpaces"
+		"Theme - Soda"
 	]
 }
