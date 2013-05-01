@@ -39,6 +39,10 @@
     // "font_face" : "Source Code Pro",
 	"font_size": 12.0,
 
+    // Hilights current line.
+    // Helps when jumping back and forth between a browser and code.
+    "highlight_line": true,
+
     // Don't show hidden (dotted) directories and binary files in the sidebar
     // (You are not going to edit them in any case)
     "file_exclude_patterns": [".*", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"],
