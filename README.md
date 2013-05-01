@@ -19,9 +19,9 @@ Interface packages:
 * [SideBarGit](https://github.com/SublimeText/SideBarGit): Add git commands to sidebar.
 
 Writing packages:
-* [LaTeXTools*](https://github.com/SublimeText/LaTeXTools): LaTeX plugin.
+* [LaTeXTools](https://github.com/SublimeText/LaTeXTools)*: LaTeX plugin.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview): Markdown preview plugin.
-* [Pandoc*](https://github.com/jgm/pandoc): Universal markup converter.
+* [Pandoc](https://github.com/jgm/pandoc)*: Universal markup converter.
 
 (*) _These packages have dependencies that won't installed_
 
