@@ -5,7 +5,7 @@ My user settings and packages for Sublime Text 2.
 ## Features
 The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/).
 
-Preferences tweaks in [Preferences.sublime-settings](/blob/master/Preferences.sublime-settings) for handling indentation and trailing whitespaces consistently. Check the file for an extensive listing of features. It's commented and easy to read.
+Preferences tweaks in [Preferences.sublime-settings](Preferences.sublime-settings) for handling indentation and trailing whitespaces consistently. Check the file for an extensive listing of features. It's commented and easy to read.
 
 Development packages:
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs): Simplifies writing DocBlock comments.
@@ -57,7 +57,7 @@ Once again, restart Sublime Text 2 and check for errors on the console output (`
 
 ## Extra
 Some tips to improve even further your Sublime Text 2.
-* Enable the [command line tool](blob/master/command-support-osx.sh) running the script (only Mac OS X).
+* Enable the [command line tool](command-support-osx.sh) running the script (only Mac OS X).
 * Configure [Dropbox sync](http://opensourcehacker.com/2012/05/24/sync-and-back-up-sublime-text-settings-and-plug-ins-using-dropbox-on-linux-and-osx/).
 
 ## Warning
