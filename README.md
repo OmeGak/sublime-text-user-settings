@@ -1,6 +1,6 @@
 Sublime Text 2 - User settings
 ==============================
-My user settings for Sublime Text 2.
+My user settings and packages for Sublime Text 2.
 
 ## Features
 The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/).
@@ -30,7 +30,7 @@ Install [PackageControl](http://wbond.net/sublime_packages/package_control) for 
 
 Go to your Packages directory:
 * OS X: `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
-* LINUX: `cd ~/.Sublime\ Text\ 2/Packages`
+* Linux: `cd ~/.config/sublime-text-2/Packages`
 
 Backup your current `User` package:
 
