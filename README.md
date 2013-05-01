@@ -23,7 +23,7 @@ Writing packages:
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview): Markdown preview plugin.
 * [Pandoc](https://github.com/jgm/pandoc)*: Universal markup converter.
 
-(*) _These packages have dependencies that won't installed_
+(*) _These packages have dependencies that won't installed_.
 
 ## Install
 Install [PackageControl](http://wbond.net/sublime_packages/package_control) for it to automatically download the other packages later on.
