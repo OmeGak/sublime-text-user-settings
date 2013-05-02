@@ -5,7 +5,7 @@ My user settings and packages for Sublime Text 2.
 ## Features
 The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/).
 
-Preferences tweaks in [Preferences.sublime-settings](Preferences.sublime-settings) mainly for handling indentation and trailing whitespaces consistently. Check the file for an extensive listing of features. It's commented and easy to read.
+Preferences tweaks in [Preferences.sublime-settings](Preferences.sublime-settings-sample) mainly for handling indentation and trailing whitespaces consistently. Check the file for an extensive listing of features. It's commented and easy to read.
 
 Development packages:
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs): Simplifies writing DocBlock comments.
