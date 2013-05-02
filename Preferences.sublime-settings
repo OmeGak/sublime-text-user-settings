@@ -37,7 +37,7 @@
     // Download better font
     // https://github.com/adobe/Source-Code-Pro
     // "font_face" : "Source Code Pro",
-	"font_size": 12.0,
+    // "font_size": 12.0,
 
     // Hilights current line.
     // Helps when jumping back and forth between a browser and code.
