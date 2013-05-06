@@ -1,3 +1,7 @@
 {
-    "font_face" : "Consolas"
+    // LaTeX feels nicer over white backgrounds
+    "color_scheme": "Packages/User/Espresso Soda.tmTheme",
+
+    // Provides italics
+    "font_face" : "Menlo"
 }
