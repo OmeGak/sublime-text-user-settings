@@ -22,6 +22,7 @@ Writing packages:
 * [LaTeXTools](https://github.com/SublimeText/LaTeXTools)*: LaTeX plugin.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview): Markdown preview plugin.
 * [Pandoc](https://github.com/jgm/pandoc)*: Universal markup converter.
+* [PastePDF](https://github.com/compleatang/sublimetext-pastepdf): Paste PDF text block to Sublime after stripping new lines.
 
 (*) _These packages have dependencies that won't installed_.
 
