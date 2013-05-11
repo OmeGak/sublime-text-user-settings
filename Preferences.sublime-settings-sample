@@ -26,18 +26,17 @@
     // Install better theme
     // (You can get this from the package control)
     // https://github.com/buymeasoda/soda-theme/
-    "theme": "Soda Light.sublime-theme",
-    // "theme": "Soda Dark.sublime-theme",
+    // "theme": "Soda Light.sublime-theme",
+    "theme": "Soda Dark.sublime-theme",
 
     // Download better color_scheme
     // https://github.com/buymeasoda/soda-theme#syntax-highlighting-colour-schemes
-    "color_scheme": "Packages/User/Espresso Soda.tmTheme",
-    // "color_scheme": "Packages/User/Monokai Soda.tmTheme",
+    // "color_scheme": "Packages/User/Espresso Soda.tmTheme",
+    "color_scheme": "Packages/User/Monokai Soda.tmTheme",
 
     // Download better font
     // https://github.com/adobe/Source-Code-Pro
-    // "font_face" : "Source Code Pro",
-    // "font_size": 12.0,
+    "font_face" : "Source Code Pro",
 
     // Hilights current line.
     // Helps when jumping back and forth between a browser and code.
