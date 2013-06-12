@@ -1,3 +1,7 @@
 {
-    "sublimelinter_gutter_marks_theme": "alpha"
+    "sublimelinter_gutter_marks_theme": "alpha",
+    "csslint_options":
+    {
+        "adjoining-classes": false
+    }
 }
