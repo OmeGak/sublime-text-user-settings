@@ -18,8 +18,12 @@ Interface packages:
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
 * [SideBarGit](https://github.com/SublimeText/SideBarGit): Add git commands to sidebar.
 
+Syntax Highlighting packages:
+* [Mako](https://github.com/marconi/mako-tmbundle): Syntax highlight for Mako templates.
+* [SASS](https://github.com/P233/Syntax-highlighting-for-Sass): A new syntax highlighting package for both SCSS and Sass.
+
 Writing packages:
-* [Dictionaries](https://github.com/titoBouzout/Dictionaries): Hunspell UTF8 dictionaries for Sublime Text. [Spell check] 
+* [Dictionaries](https://github.com/titoBouzout/Dictionaries): Hunspell UTF8 dictionaries for Sublime Text. [Spell check]
 * [LaTeXTools](https://github.com/SublimeText/LaTeXTools)*: LaTeX plugin.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview): Markdown preview plugin.
 * [Pandoc](https://github.com/jgm/pandoc)*: Universal markup converter.
