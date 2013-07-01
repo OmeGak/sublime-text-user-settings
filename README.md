@@ -19,7 +19,9 @@ Interface packages:
 * [SideBarGit](https://github.com/SublimeText/SideBarGit): Add git commands to sidebar.
 
 Syntax Highlighting packages:
-* [Mako](https://github.com/marconi/mako-tmbundle): Syntax highlight for Mako templates.
+* [LESS](https://github.com/danro/LESS-sublime): LESS syntax highlighting for Sublime Text 2.
+* [Jinja2](https://github.com/mitsuhiko/jinja2-tmbundle): Synxtax highlighting for Jinja2 templates.
+* [Mako](https://github.com/marconi/mako-tmbundle): Syntax highlighting for Mako templates.
 * [SASS](https://github.com/P233/Syntax-highlighting-for-Sass): A new syntax highlighting package for both SCSS and Sass.
 
 Writing packages:
@@ -29,7 +31,10 @@ Writing packages:
 * [Pandoc](https://github.com/jgm/pandoc)*: Universal markup converter.
 * [PastePDF](https://github.com/compleatang/sublimetext-pastepdf): Paste PDF text block to Sublime after stripping new lines.
 
-(*) _These packages have dependencies that won't installed_.
+Misc tools:
+* [Less2Css](https://github.com/timdouglas/sublime-less2css): Sublime Text 2 Plugin to compile less files to css on save.
+
+(*) _These packages have dependencies that won't be installed. Check the link for further instructions._
 
 ## Install
 Install [PackageControl](http://wbond.net/sublime_packages/package_control) for it to automatically download the other packages later on.
