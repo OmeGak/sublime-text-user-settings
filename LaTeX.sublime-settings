@@ -6,5 +6,5 @@
     "font_face": "Menlo",
 
     // Grammar nazi mode
-    "spellCheck": true
+    "spell_check": true
 }
