@@ -1,0 +1,49 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading. For more info, see
+// http://docs.sublimetext.info/en/latest/customization/settings.html
+{
+    // Tab and whitespace handling.
+    // Indent using spaces, 4 spaces ber indent by default, clean up extra whitespaces on save
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_automatic_white_space": true,
+    "trim_trailing_white_space_on_save": true,
+
+    // Do not try to detect the tab size from the opened file
+    "detect_indentation" : false,
+
+    // Don't do any VIM keybindings or other VIM fanatic sugar
+    "ignored_packages": ["Vintage"],
+
+    // Don't complain about plug-in responsive
+    // (Too verbose when you have slow computer)
+    "detect_slow_plugins": false,
+
+    // http://www.granneman.com/webdev/editors/sublime-text/top-features-of-sublime-text/auto-completion-in-sublime-text/
+    // The delay, in ms, before the auto complete window is shown after typing
+    "auto_complete_delay": 500,
+
+    // Install better theme
+    // (You can get this from the package control)
+    // https://github.com/buymeasoda/soda-theme/
+    // "theme": "Soda Light.sublime-theme",
+    "theme": "Soda Dark.sublime-theme",
+
+    // Download better color_scheme
+    // https://github.com/buymeasoda/soda-theme#syntax-highlighting-colour-schemes
+    // "color_scheme": "Packages/User/Espresso Soda.tmTheme",
+    "color_scheme": "Packages/User/Monokai Soda.tmTheme",
+
+    // Download better font
+    // https://github.com/adobe/Source-Code-Pro
+    "font_face" : "Source Code Pro",
+
+    // Hilights current line.
+    // Helps when jumping back and forth between a browser and code.
+    "highlight_line": true,
+
+    // Don't show hidden (dotted) directories and binary files in the sidebar
+    // (You are not going to edit them in any case)
+    "file_exclude_patterns": [".*", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"],
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"]
+}
