@@ -19,6 +19,7 @@ Interface packages:
 * [SideBarGit](https://github.com/SublimeText/SideBarGit): Add git commands to sidebar.
 
 Syntax Highlighting packages:
+* [CMake](https://github.com/zyxar/Sublime-CMakeLists): Syntax highlighting for CMake files.
 * [LESS](https://github.com/danro/LESS-sublime): LESS syntax highlighting for Sublime Text 2.
 * [Jinja2](https://github.com/mitsuhiko/jinja2-tmbundle): Synxtax highlighting for Jinja2 templates.
 * [Mako](https://github.com/marconi/mako-tmbundle): Syntax highlighting for Mako templates.

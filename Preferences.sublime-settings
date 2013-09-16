@@ -10,9 +10,7 @@
     "trim_trailing_white_space_on_save": true,
 
     // Do not try to detect the tab size from the opened file
-    // Adds whitespace up to the first open bracket when indenting. Requires
     "detect_indentation" : false,
-    "indent_to_bracket": true,
 
     // Don't do any VIM keybindings or other VIM fanatic sugar
     "ignored_packages": ["Vintage"],
