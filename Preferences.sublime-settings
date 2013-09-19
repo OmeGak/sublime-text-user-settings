@@ -13,6 +13,9 @@
     // Do not try to detect the tab size from the opened file
     "detect_indentation" : false,
 
+    // Prevent loosing your clipboard when miss-press Ctrl+V
+    "copy_with_empty_selection": false,
+
     // Don't do any VIM keybindings or other VIM fanatic sugar
     "ignored_packages": ["Vintage"],
 
