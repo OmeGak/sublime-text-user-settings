@@ -8,6 +8,7 @@ The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/).
 Preferences tweaks in [Preferences.sublime-settings](Preferences.sublime-settings-sample) mainly for handling indentation and trailing whitespaces consistently. Check the file for an extensive listing of features. It's commented and easy to read.
 
 Development packages:
+* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs): Simplifies writing DocBlock comments.
 * [Emmet](http://emmet.io/): The essential toolkit for web-developers.
 * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel): Full-featured code intelligence and smart autocomplete engine.
@@ -28,6 +29,7 @@ Syntax Highlighting packages:
 Writing packages:
 * [Dictionaries](https://github.com/titoBouzout/Dictionaries): Hunspell UTF8 dictionaries for Sublime Text. [Spell check]
 * [LaTeXTools](https://github.com/SublimeText/LaTeXTools)*: LaTeX plugin.
+* [MarkdownEditing](https://github.com/ttscoff/MarkdownEditing): The humble beginnings of a better Markdown editing.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview): Markdown preview plugin.
 * [Pandoc](https://github.com/jgm/pandoc)*: Universal markup converter.
 * [PastePDF](https://github.com/compleatang/sublimetext-pastepdf): Paste PDF text block to Sublime after stripping new lines.

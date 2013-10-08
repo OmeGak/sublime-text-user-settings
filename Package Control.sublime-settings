@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"CMake",
 		"Dictionaries",
 		"DocBlockr",
@@ -12,6 +13,7 @@
 		"Less2Css",
 		"Mako",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
 		"Pandoc",
 		"Paste PDF Text Block",
