@@ -8,12 +8,16 @@
     "translate_tabs_to_spaces": true,
     "trim_automatic_white_space": true,
     "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
 
     // Do not try to detect the tab size from the opened file
     "detect_indentation" : false,
 
-    // Don't do any VIM keybindings or other VIM fanatic sugar
-    "ignored_packages": ["Vintage"],
+    // Prevent loosing your clipboard when miss-press Ctrl+V
+    "copy_with_empty_selection": false,
+
+    // Ctrl+F finds highlighted text in all SO
+    "find_selected_text": true,
 
     // Don't complain about plug-in responsive
     // (Too verbose when you have slow computer)
@@ -45,5 +49,8 @@
     // Don't show hidden (dotted) directories and binary files in the sidebar
     // (You are not going to edit them in any case)
     "file_exclude_patterns": [".*", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"],
-    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"]
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+
+    // Don't do any VIM keybindings or other VIM fanatic sugar
+    "ignored_packages": ["Vintage"]
 }
