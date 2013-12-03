@@ -8,18 +8,20 @@ The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/).
 Sensible set of preferences in [Preferences.sublime-settings](Preferences.sublime-settings-sample), mainly for handling indentation, trailing whitespaces and tweaking several other small features. Go check the file for an extensive listing of features. It's commented and easy to read!
 
 Development packages:
-* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs): Simplifies writing DocBlock comments.
 * [Emmet](http://emmet.io/): The essential toolkit for web-developers.
 * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel): Full-featured code intelligence and smart autocomplete engine.
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter): Inline lint highlighting.
 
 Interface packages:
+* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
 * [Git](https://github.com/kemayo/sublime-text-2-git): Plugin for some git integration.
+* [GitGutter](https://github.com/jisaacks/GitGutter): A Sublime Text 2/3 plugin to see git diff in gutter .
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
 * [SideBarGit](https://github.com/SublimeText/SideBarGit): Add git commands to sidebar.
 
 Syntax Highlighting packages:
+* [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package): AngularJS code completion, snippets, go to definition, quick panel search, and more.
 * [CMake](https://github.com/zyxar/Sublime-CMakeLists): Syntax highlighting for CMake files.
 * [LESS](https://github.com/danro/LESS-sublime): LESS syntax highlighting for Sublime Text 2.
 * [Jinja2](https://github.com/mitsuhiko/jinja2-tmbundle): Synxtax highlighting for Jinja2 templates.

@@ -2,11 +2,13 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AngularJS",
 		"BracketHighlighter",
 		"CMake",
 		"Dictionaries",
 		"DocBlockr",
 		"Emmet",
+		"GitGutter",
 		"Jinja2",
 		"LaTeXTools",
 		"LESS",
