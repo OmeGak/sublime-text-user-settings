@@ -16,8 +16,8 @@
     // Prevent loosing your clipboard when miss-press Ctrl+V
     "copy_with_empty_selection": false,
 
-    // Don't do any VIM keybindings or other VIM fanatic sugar
-    "ignored_packages": ["Vintage"],
+    // Ctrl+F finds highlighted text in all SO
+    "find_selected_text": true,
 
     // Don't complain about plug-in responsive
     // (Too verbose when you have slow computer)
@@ -49,5 +49,8 @@
     // Don't show hidden (dotted) directories and binary files in the sidebar
     // (You are not going to edit them in any case)
     "file_exclude_patterns": [".*", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"],
-    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"]
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+
+    // Don't do any VIM keybindings or other VIM fanatic sugar
+    "ignored_packages": ["Vintage"]
 }
