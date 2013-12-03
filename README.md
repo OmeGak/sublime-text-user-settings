@@ -5,7 +5,7 @@ My user settings and packages for Sublime Text 2.
 ## Features
 The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/).
 
-Preferences tweaks in [Preferences.sublime-settings](Preferences.sublime-settings-sample) mainly for handling indentation and trailing whitespaces consistently. Check the file for an extensive listing of features. It's commented and easy to read.
+Sensible set of preferences in [Preferences.sublime-settings](Preferences.sublime-settings-sample), mainly for handling indentation, trailing whitespaces and tweaking several other small features. Go check the file for an extensive listing of features. It's commented and easy to read!
 
 Development packages:
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
@@ -73,6 +73,7 @@ Once again, restart Sublime Text 2 and check for errors on the console output (`
 Some tips to improve even further your Sublime Text 2.
 * Enable the [command line tool](command-support-osx.sh) running the script (only Mac OS X).
 * Configure [Dropbox sync](http://opensourcehacker.com/2012/05/24/sync-and-back-up-sublime-text-settings-and-plug-ins-using-dropbox-on-linux-and-osx/).
+* Integrate this repo in your favorite *.dotfiles* framework. This is [mine](https://github.com/OmeGak/dotfiles). 
 
 ## Warning
 Remember that these are my personal settings and packages, so be wary of any unwanted features that can be added or removed without notice. If you find them useful, it's probably better to fork the repository and modify it to best fit your needs.
