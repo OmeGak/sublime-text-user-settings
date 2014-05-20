@@ -32,11 +32,7 @@
     // https://github.com/buymeasoda/soda-theme/
     // "theme": "Soda Light.sublime-theme",
     "theme": "Soda Dark.sublime-theme",
-
-    // Download better color_scheme
-    // https://github.com/buymeasoda/soda-theme#syntax-highlighting-colour-schemes
-    // "color_scheme": "Packages/User/Espresso Soda.tmTheme",
-    "color_scheme": "Packages/User/Monokai Soda.tmTheme",
+    "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 
     // Download better font
     // https://github.com/adobe/Source-Code-Pro
@@ -52,5 +48,5 @@
     "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
 
     // Don't do any VIM keybindings or other VIM fanatic sugar
-    "ignored_packages": ["Vintage"]
+    "ignored_packages": ["Markdown", "Vintage"]
 }
