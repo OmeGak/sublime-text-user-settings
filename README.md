@@ -1,9 +1,9 @@
-Sublime Text 2 - User settings
+Sublime Text - User settings
 ==============================
-My user settings and packages for Sublime Text 2.
+My user settings and packages for Sublime Text.
 
 ## Features
-The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/).
+The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/) and [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended) color scheme.
 
 Sensible set of preferences in [Preferences.sublime-settings](Preferences.sublime-settings-sample), mainly for handling indentation, trailing whitespaces and tweaking several other small features. Go check the file for an extensive listing of features. It's commented and easy to read!
 
@@ -23,7 +23,7 @@ Interface packages:
 Syntax Highlighting packages:
 * [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package): AngularJS code completion, snippets, go to definition, quick panel search, and more.
 * [CMake](https://github.com/zyxar/Sublime-CMakeLists): Syntax highlighting for CMake files.
-* [LESS](https://github.com/danro/LESS-sublime): LESS syntax highlighting for Sublime Text 2.
+* [LESS](https://github.com/danro/LESS-sublime): LESS syntax highlighting for Sublime Text.
 * [Jinja2](https://github.com/mitsuhiko/jinja2-tmbundle): Synxtax highlighting for Jinja2 templates.
 * [Mako](https://github.com/marconi/mako-tmbundle): Syntax highlighting for Mako templates.
 * [SASS](https://github.com/P233/Syntax-highlighting-for-Sass): A new syntax highlighting package for both SCSS and Sass.
@@ -37,7 +37,7 @@ Writing packages:
 * [PastePDF](https://github.com/compleatang/sublimetext-pastepdf): Paste PDF text block to Sublime after stripping new lines.
 
 Misc tools:
-* [Less2Css](https://github.com/timdouglas/sublime-less2css): Sublime Text 2 Plugin to compile less files to css on save.
+* [Less2Css](https://github.com/timdouglas/sublime-less2css): Sublime Text Plugin to compile less files to css on save.
 
 (*) _These packages have dependencies that won't be installed. Check the link for further instructions._
 
@@ -45,8 +45,8 @@ Misc tools:
 Install [PackageControl](http://wbond.net/sublime_packages/package_control) for it to automatically download the other packages later on.
 
 Go to your Packages directory:
-* OS X: `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
-* Linux: `cd ~/.config/sublime-text-2/Packages`
+* OS X: `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/`
+* Linux: `cd ~/.config/sublime-text-3/Packages`
 
 Backup your current `User` package:
 
@@ -57,10 +57,10 @@ mv User/ User-old/
 Clone the repository as your `User` package:
 
 ```
-git clone https://github.com/OmeGak/sublime-text-2-user-settings.git User
+git clone https://github.com/OmeGak/sublime-text-user-settings.git User
 ```
 
-Restart Sublime Text 2 and you should be good to go. It won't harm keeping an eye on the console output (`` Ctrl+` ``) to check if there is any problem.
+Restart Sublime Text and you should be good to go. It won't harm keeping an eye on the console output (`` Ctrl+` ``) to check if there is any problem.
 
 ## Update
 Go to your `User` package directory and just pull from the repository:
@@ -69,10 +69,10 @@ Go to your `User` package directory and just pull from the repository:
 git pull
 ```
 
-Once again, restart Sublime Text 2 and check for errors on the console output (`` Ctrl+` ``).
+Once again, restart Sublime Text and check for errors on the console output (`` Ctrl+` ``).
 
 ## Extra
-Some tips to improve even further your Sublime Text 2.
+Some tips to improve even further your Sublime Text.
 * Enable the [command line tool](command-support-osx.sh) running the script (only Mac OS X).
 * Configure [Dropbox sync](http://opensourcehacker.com/2012/05/24/sync-and-back-up-sublime-text-settings-and-plug-ins-using-dropbox-on-linux-and-osx/).
 * Integrate this repo in your favorite *.dotfiles* framework. This is [mine](https://github.com/OmeGak/dotfiles). 
