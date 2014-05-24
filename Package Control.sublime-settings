@@ -24,6 +24,7 @@
 		"SideBarGit",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"Syntax Highlighting for Sass",
 		"Theme - Soda"
 	]

@@ -11,7 +11,8 @@ Development packages:
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs): Simplifies writing DocBlock comments.
 * [Emmet](http://emmet.io/): The essential toolkit for web-developers.
 * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel): Full-featured code intelligence and smart autocomplete engine.
-* [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter): Inline lint highlighting.
+* [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3): Interactive code linting framework for Sublime Text 3.
+* [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)*: SublimeLinter plugin for python, using flake8.
 
 Interface packages:
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
