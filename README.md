@@ -23,12 +23,13 @@ Interface packages:
 * [GitHub Tools](https://github.com/temochka/sublime-text-2-github-tools): A set of handy tools to use Sublime Text 2+ with Github.
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
 
-Syntax Highlighting packages:
+Language packages:
 * [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package): AngularJS code completion, snippets, go to definition, quick panel search, and more.
 * [CMake](https://github.com/zyxar/Sublime-CMakeLists): Syntax highlighting for CMake files.
 * [LESS](https://github.com/danro/LESS-sublime): LESS syntax highlighting for Sublime Text.
 * [Jinja2](https://github.com/mitsuhiko/jinja2-tmbundle): Synxtax highlighting for Jinja2 templates.
 * [Mako](https://github.com/marconi/mako-tmbundle): Syntax highlighting for Mako templates.
+* [Puppet](https://github.com/russCloak/SublimePuppet): Puppet (puppetlabs.com) highlighting, snippets and completion for Sublime Text 2.
 * [SASS](https://github.com/P233/Syntax-highlighting-for-Sass): A new syntax highlighting package for both SCSS and Sass.
 
 Writing packages:
