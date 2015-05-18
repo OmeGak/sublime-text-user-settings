@@ -16,6 +16,7 @@ Development packages:
 
 Interface packages:
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
+* [BufferScroll](https://github.com/titoBouzout/BufferScroll): Enables typewritter scrolling.
 * [Git](https://github.com/kemayo/sublime-text-2-git): Plugin for some git integration.
 * [GitGutter](https://github.com/jisaacks/GitGutter): A Sublime Text 2/3 plugin to see git diff in gutter .
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.

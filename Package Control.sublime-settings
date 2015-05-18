@@ -4,6 +4,7 @@
 	[
 		"AngularJS",
 		"BracketHighlighter",
+		"BufferScroll",
 		"CMake",
 		"Dictionaries",
 		"DocBlockr",
