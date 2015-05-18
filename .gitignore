@@ -1,5 +1,6 @@
 .DS_Store
 
+# Package Control crap
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle
@@ -7,6 +8,8 @@ Package Control.*-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
 
-Side Bar.sublime-settings
+# SublimeLinter automatically modified themes
+SublimeLinter/*.tmTheme
 
+Side Bar.sublime-settings
 bh_unicode_properties.cache
