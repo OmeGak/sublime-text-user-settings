@@ -43,6 +43,7 @@ Writing packages:
 
 Misc tools:
 * [Less2Css](https://github.com/timdouglas/sublime-less2css): Sublime Text Plugin to compile less files to css on save.
+* [PlainTasks](https://github.com/aziz/PlainTasks): An opinionated todo-list plugin for Sublime Text editor (version 2 and 3).
 
 (*) _These packages have dependencies that won't be installed. Check the link for further instructions._
 
