@@ -18,10 +18,10 @@ Development packages:
 Interface packages:
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
 * [BufferScroll](https://github.com/titoBouzout/BufferScroll): Enables typewritter scrolling.
-* [Git](https://github.com/kemayo/sublime-text-2-git): Plugin for some git integration.
+* [Git](https://github.com/kemayo/sublime-text-git): Plugin for some git integration.
 * [GitGutter](https://github.com/jisaacks/GitGutter): A Sublime Text 2/3 plugin to see git diff in gutter .
+* [GitHub Tools](https://github.com/temochka/sublime-text-2-github-tools): A set of handy tools to use Sublime Text 2+ with Github.
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
-* [SideBarGit](https://github.com/SublimeText/SideBarGit): Add git commands to sidebar.
 
 Syntax Highlighting packages:
 * [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package): AngularJS code completion, snippets, go to definition, quick panel search, and more.
