@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"AutoWrap",
 		"BracketHighlighter",
 		"BufferScroll",
 		"CMake",

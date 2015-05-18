@@ -34,6 +34,7 @@ Language packages:
 
 Writing packages:
 * [Dictionaries](https://github.com/titoBouzout/Dictionaries): Hunspell UTF8 dictionaries for Sublime Text. [Spell check]
+* [AutoWrap](https://github.com/randy3k/AutoWrap): Auto (Hard) Wrap for Sublime Text 2/3
 * [LaTeXTools](https://github.com/SublimeText/LaTeXTools)*: LaTeX plugin.
 * [MarkdownEditing](https://github.com/ttscoff/MarkdownEditing): The humble beginnings of a better Markdown editing.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview): Markdown preview plugin.
