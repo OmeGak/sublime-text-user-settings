@@ -12,7 +12,8 @@ Development packages:
 * [Emmet](http://emmet.io/): The essential toolkit for web-developers.
 * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel): Full-featured code intelligence and smart autocomplete engine.
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3): Interactive code linting framework for Sublime Text 3.
-* [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)*: SublimeLinter plugin for python, using flake8.
+* [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)*: Linter for Python, using flake8.
+* [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint): Linter for JavaScript, using jshint.
 
 Interface packages:
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.

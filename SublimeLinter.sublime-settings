@@ -16,6 +16,11 @@
                 "max-complexity": -1,
                 "max-line-length": 120,
                 "select": ""
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "solid underline",
