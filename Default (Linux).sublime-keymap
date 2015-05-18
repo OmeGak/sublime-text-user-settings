@@ -1,2 +1,4 @@
 [
+    { "keys": ["alt+up"], "command": "scroll_lines", "args": {"amount": 5.0 } },
+    { "keys": ["alt+down"], "command": "scroll_lines", "args": {"amount": -5.0 } },
 ]
