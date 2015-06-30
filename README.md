@@ -78,8 +78,7 @@ git pull
 Once again, restart Sublime Text and check for errors on the console output (`` Ctrl+` ``).
 
 ## Extra
-Some tips to improve even further your Sublime Text.
-* Enable the [command line tool](command-support-osx.sh) running the script (only Mac OS X).
+Some tips:
 * Configure [Dropbox sync](http://opensourcehacker.com/2012/05/24/sync-and-back-up-sublime-text-settings-and-plug-ins-using-dropbox-on-linux-and-osx/).
 * Integrate this repo in your favorite *.dotfiles* framework. This is [mine](https://github.com/OmeGak/dotfiles). 
 
