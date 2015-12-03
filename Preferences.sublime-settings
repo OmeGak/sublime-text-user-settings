@@ -30,8 +30,8 @@
     // Install better theme
     // (You can get this from the package control)
     // https://github.com/buymeasoda/soda-theme/
-    // "theme": "Soda Light.sublime-theme",
-    "theme": "Soda Dark.sublime-theme",
+    // "theme": "SoDaReloaded Light.sublime-theme",
+    "theme": "SoDaReloaded Dark.sublime-theme",
     "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 
     // Download better font

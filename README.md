@@ -3,7 +3,7 @@ Sublime Text - User settings
 My user settings and packages for Sublime Text.
 
 ## Features
-The awesome [Soda Theme](https://github.com/buymeasoda/soda-theme/) and [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended) color scheme.
+The awesome [SoDaReloaded Theme](https://github.com/Miw0/sodareloaded-theme) and [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended) color scheme.
 
 Sensible set of preferences in [Preferences.sublime-settings](Preferences.sublime-settings-sample), mainly for handling indentation, trailing whitespaces and tweaking several other small features. Go check the file for an extensive listing of features. It's commented and easy to read!
 
