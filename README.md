@@ -21,6 +21,7 @@ Interface packages:
 * [Git](https://github.com/kemayo/sublime-text-git): Plugin for some git integration.
 * [GitGutter](https://github.com/jisaacks/GitGutter): A Sublime Text 2/3 plugin to see git diff in gutter .
 * [GitHub Tools](https://github.com/temochka/sublime-text-2-github-tools): A set of handy tools to use Sublime Text 2+ with Github.
+* [Keymaps](https://github.com/MiroHibler/sublime-keymaps): Find a keymap for... and show all enabled keymaps in a Cheat Sheet.
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
 
 Language packages:
