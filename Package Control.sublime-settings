@@ -17,6 +17,7 @@
 		"Git",
 		"GitGutter",
 		"Github Tools",
+		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
 		"Keymaps",
 		"LaTeXTools",
@@ -35,8 +36,8 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-flake8",
-		"SublimeLinter-jshint",
 		"Theme - SoDaReloaded"
 	]
 }

@@ -13,7 +13,7 @@ Development packages:
 * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel): Full-featured code intelligence and smart autocomplete engine.
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3): Interactive code linting framework for Sublime Text 3.
 * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)*: Linter for Python, using flake8.
-* [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint): Linter for JavaScript, using jshint.
+* [SublimeLinter-contrib-eslint](https://github.com/roadhump/SublimeLinter-eslint): This linter plugin for SublimeLinter provides an interface to ESLint.
 
 Interface packages:
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
@@ -28,6 +28,7 @@ Language packages:
 * [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package): AngularJS code completion, snippets, go to definition, quick panel search, and more.
 * [CMake](https://github.com/zyxar/Sublime-CMakeLists): Syntax highlighting for CMake files.
 * [LESS](https://github.com/danro/LESS-sublime): LESS syntax highlighting for Sublime Text.
+* [JavaScriptNext](https://github.com/Benvie/JavaScriptNext.tmLanguage): ES6 syntax highlighting.
 * [Jinja2](https://github.com/mitsuhiko/jinja2-tmbundle): Synxtax highlighting for Jinja2 templates.
 * [Mako](https://github.com/marconi/mako-tmbundle): Syntax highlighting for Mako templates.
 * [Puppet](https://github.com/russCloak/SublimePuppet): Puppet (puppetlabs.com) highlighting, snippets and completion for Sublime Text 2.
