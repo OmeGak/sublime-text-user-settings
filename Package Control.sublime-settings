@@ -37,6 +37,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-flake8",
 		"Theme - SoDaReloaded"
 	]

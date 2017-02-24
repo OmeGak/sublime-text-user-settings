@@ -12,8 +12,9 @@ Development packages:
 * [Emmet](http://emmet.io/): The essential toolkit for web-developers.
 * [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel): Full-featured code intelligence and smart autocomplete engine.
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3): Interactive code linting framework for Sublime Text 3.
-* [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)*: Linter for Python, using flake8.
+* [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8): Linter for Python, using flake8.
 * [SublimeLinter-contrib-eslint](https://github.com/roadhump/SublimeLinter-eslint): This linter plugin for SublimeLinter provides an interface to ESLint.
+* [SublimeLinter-contrib-sass-lint](https://github.com/skovhus/SublimeLinter-contrib-sass-lint): SublimeLinter plugin for Sass/SCSS syntax, using sass-lint (node.js).
 
 Interface packages:
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter): Bracket and tag highlighter for Sublime Text.
@@ -82,7 +83,7 @@ Once again, restart Sublime Text and check for errors on the console output (`` 
 ## Extra
 Some tips:
 * Configure [Dropbox sync](http://opensourcehacker.com/2012/05/24/sync-and-back-up-sublime-text-settings-and-plug-ins-using-dropbox-on-linux-and-osx/).
-* Integrate this repo in your favorite *.dotfiles* framework. This is [mine](https://github.com/OmeGak/dotfiles). 
+* Integrate this repo in your favorite *.dotfiles* framework. This is [mine](https://github.com/OmeGak/dotfiles).
 
 ## Warning
 Remember that these are my personal settings and packages, so be wary of any unwanted features that can be added or removed without notice. If you find them useful, it's probably better to fork the repository and modify it to best fit your needs.
